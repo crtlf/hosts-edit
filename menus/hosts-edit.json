@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Hosts Edit",
+          "submenu": [
+            {
+              "label": "Open hosts file",
+              "command": "hosts-edit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
