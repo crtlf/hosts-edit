@@ -1,14 +1,14 @@
 {
   "name": "hosts-edit",
   "main": "./lib/hosts-edit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Open your hosts file quickly",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "hosts-edit:toggle"
   },
-  "repository": "https://github.com/atom/hosts-edit",
+  "repository": "https://github.com/crtlf/hosts-edit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
