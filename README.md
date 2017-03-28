@@ -1,5 +1,7 @@
 # Atom - Hosts Edit
 
+[![apm](https://img.shields.io/apm/v/hosts-edit.svg)]() [![apm](https://img.shields.io/apm/dm/hosts-edit.svg)]() [![apm](https://img.shields.io/apm/l/hosts-edit.svg)]()
+
 Open your hosts file quickly on Atom.
 
 ### How ?
