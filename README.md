@@ -1,6 +1,6 @@
 # Atom - Hosts Edit
 
-[![apm](https://img.shields.io/apm/v/hosts-edit.svg)]() [![apm](https://img.shields.io/apm/dm/hosts-edit.svg)]() [![apm](https://img.shields.io/apm/l/hosts-edit.svg)]()
+[![apm](https://img.shields.io/apm/v/hosts-edit.svg)](https://github.com/crtlf/hosts-edit/tags) [![apm](https://img.shields.io/apm/dm/hosts-edit.svg)](https://atom.io/packages/hosts-edit) [![apm](https://img.shields.io/apm/l/hosts-edit.svg)](https://github.com/crtlf/hosts-edit/blob/master/LICENSE.md)
 
 Open your hosts file quickly on Atom.
 
