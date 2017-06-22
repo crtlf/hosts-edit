@@ -10,6 +10,6 @@ Open your hosts file quickly on Atom.
 * Via `Packages` > `Hosts Edit` > `Open hosts file`
 * Or via the _Command Palette_ (`Ctrl+Shift+P`) and choose `Hosts Edit : Toggle`
 
-### 1.0 release 🎉
+### Configuration
 
-You can now override the default location of your hosts file in the plugin settings.
+You can override the default location of your hosts file in the plugin settings, via `Preferences > Packages > Hosts Edit > Settings`.
