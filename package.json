@@ -1,7 +1,7 @@
 {
   "name": "hosts-edit",
   "main": "./lib/hosts-edit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open your hosts file quickly",
   "keywords": [],
   "activationCommands": {
